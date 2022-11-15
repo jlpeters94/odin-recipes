@@ -1,0 +1,40 @@
+* {
+	background-color: #ffffcc;
+	font-family: Century Gothic, Arial, sans-serif;
+}
+
+h1 {
+	color: #FF0000;
+	text-align: center;
+
+}
+
+h3 {
+	text-align: center;
+	color: #FF9900;
+}
+
+img {
+	text-align: center;
+	width: 500px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul, ol {
+	display: table;
+	margin: 0 auto;
+}
+
+a {
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+p {
+	text-align: center;
+}
+
